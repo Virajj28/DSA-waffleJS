@@ -1,6 +1,6 @@
 # DSA-waffleJS 🧇
 Started on 18th May 2022
-## Codevolution JS Algo course.
+## Codevolution JS Algo course
 ### Topics 
 => Algorithm
 <br>
